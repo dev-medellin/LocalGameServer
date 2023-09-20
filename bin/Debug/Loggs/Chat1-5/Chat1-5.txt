@@ -1,0 +1,12 @@
+[Chat][TQ]Kyaly[GM] to All  @dropevent dragonball 500
+[Chat][TQ]Kyaly[GM] to All  @disconnect
+[Chat][TQ]Kyaly[GM] to All  @life
+[Chat][TQ]Kyaly[GM] to All  @money 9999999999
+[Chat][TQ]Kyaly[GM] to All  @money 0
+[Chat][TQ]Kyaly[GM] to All  @money 9999999999
+[Chat][TQ]Kyaly[GM] to All  @item holygrail normalv3 0 0 00 0
+[Chat][TQ]Kyaly[GM] to All  @item goldcup normalv3 0 0 0 0 0
+[Chat][TQ]Kyaly[GM] to All  @goldcup normalv3 0 0 0 0 0
+[Chat][TQ]Kyaly[GM] to All  @scroll tc
+[Chat][TQ]Kyaly[GM] to All  @life
+[Chat][TQ]Kyaly[GM] to All  @studypoints 99999999

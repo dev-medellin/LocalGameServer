@@ -1,0 +1,13 @@
+----Exception message----
+The given key was not present in the dictionary.
+----End of exception message----
+
+----Stack trace----
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at COServer.Game.MsgServer.AttackHandler.Transform.Execute(GameClient user, InteractQuery Attack, Packet stream, Dictionary`2 DBSpells) in C:\Users\user\Desktop\MyClassic\Game Server\Game\MsgServer\AttackHandler\Transform.cs:line 29
+   at COServer.Game.MsgServer.MsgAttackPacket.ProcescMagic(GameClient user, Packet stream, InteractQuery Attack, Boolean ignoreStamp) in C:\Users\user\Desktop\MyClassic\Game Server\Game\MsgServer\MsgAttackPacket.cs:line 1212
+   at COServer.Game.MsgServer.MsgAttackPacket.Process(GameClient user, InteractQuery Attack) in C:\Users\user\Desktop\MyClassic\Game Server\Game\MsgServer\MsgAttackPacket.cs:line 1104
+   at COServer.Game.MsgServer.MsgAttackPacket.HandlerProcess(GameClient user, Packet stream) in C:\Users\user\Desktop\MyClassic\Game Server\Game\MsgServer\MsgAttackPacket.cs:line 258
+   at COServer.Program.Game_Receive(SecuritySocket obj, Packet stream) in C:\Users\user\Desktop\MyClassic\Game Server\Program.cs:line 750
+----End of stack trace----
+

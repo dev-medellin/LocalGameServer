@@ -1,0 +1,54 @@
+[Chat][TQ]Kyaly[GM] to All  @scroll tc
+[Chat][TQ]Kyaly[GM] to All  @item 800724 super 12 12 12 12 12
+[Chat][TQ]Kyaly[GM] to All  @item 800724 super 12 7 12 12 12
+[Chat][TQ]Kyaly[GM] to All  @item 800724 super 0 0 0 0 0
+[Chat][TQ]Kyaly[GM] to All  @item HolyBeadsOfDharma 0 0 0 0 0
+[Chat][TQ]Kyaly[GM] to All  @item LazuritePrayerBeads Super 12 7 255 13 13
+[Chat][TQ]Kyaly[GM] to All  @item 800724 Super 12 7 255 13 13
+[Chat][TQ]Kyaly[GM] to All  @item 800724 Super 12 7 255 13 13
+[Chat][TQ]Kyaly[GM] to All  @money 1
+[Chat][TQ]Kyaly[GM] to All  @cps 0
+[Chat][TQ]Kyaly[GM] to All  @scroll tc
+[Chat][TQ]Kyaly[GM] to All  @scroll ac
+[Chat][TQ]Kyaly[GM] to All  @scroll ac
+[Chat][TQ]Kyaly[GM] to All  @scroll pc
+[Chat][TQ]Kyaly[GM] to All  @spell 1046 4
+[Chat][TQ]Kyaly[GM] to All  @spell 1046 0 0 0 0 0
+[Chat][TQ]Kyaly[GM] to All  @item UpgradeCert.(Class5) 3
+[Chat][TQ]Kyaly[GM] to All  @item HeavenScent NormalV3 0 1 
+[Chat][TQ]Kyaly[GM] to All  @item HeavenScent NormalV3 0 0 0 0 0
+[Chat][TQ]Kyaly[GM] to All  @item GoldCup NormalV3 0 0 0 0 0
+[Chat][TQ]Kyaly[GM] to All  @broadcast hello everyone
+[Chat][TQ]Kyaly[GM] to All  @bc hello everyone
+[Chat][TQ]Kyaly[GM] to All  @bc GM~is~now~in~Server!
+[Chat][TQ]Kyaly[GM] to All  @dropevent dragonball 100
+[Chat][TQ]Kyaly[GM] to All  @dropevent meteor 100
+[Chat][TQ]Kyaly[GM] to All  @summon guard 2
+[Chat][TQ]Kyaly[GM] to All  @item GMRobe 0 12 7 255 13 13
+[Chat][TQ]Kyaly[GM] to All  #65@scroll tc#65
+[Chat][TQ]Kyaly[GM] to All  #65@item 800724 super 0 0 0 0 0#65
+[Chat][TQ]Kyaly[GM] to All  #65@item 800724 super 12 7 7 255 0#65
+[Chat][TQ]Kyaly[GM] to All  #65@money 0#65
+[Chat][TQ]Kyaly[GM] to All  #65@money 999999999#65
+[Chat][TQ]Kyaly[GM] to All  #65@cps 0#65
+[Chat][TQ]Kyaly[GM] to All  #65@cps 999999999#65
+[Chat][TQ]Kyaly[GM] to All  #65@boundcps 999999999#65
+[Chat][TQ]Kyaly[GM] to All  #65@spell 3321 0 0 0 0 0#65
+[Chat][TQ]Kyaly[GM] to All  #65@scroll ac#65
+[Chat][TQ]Kyaly[GM] to All  #65@scroll tc#65
+[Chat][TQ]Kyaly[GM] to All  #65@guildwar on#65
+[Chat][TQ]Kyaly[GM] to All  #65@gw start#65
+[Chat][TQ]Kyaly[GM] to All  #65@gw on#65
+[Chat][TQ]Kyaly[GM] to All  #65@guildwar on#65
+[Chat][TQ]Kyaly[GM] to All  #65@guildwar open#65
+[Chat][TQ]Kyaly[GM] to All  #65@guildwar start#65
+[Chat][TQ]Kyaly[GM] to All  #65@ann Server Maintenance#65
+[Chat][TQ]Kyaly[GM] to All  #65@maintenance#65
+[Chat][TQ]Kyaly[GM] to All  #65@server off#65
+[Chat][TQ]Kyaly[GM] to All  #65@scroll tc#65
+[Chat][TQ]Kyaly[GM] to All  #65@die#65
+[Chat][TQ]Kyaly[GM] to All  #65@ctfon#65
+[Chat][TQ]Kyaly[GM] to All  #65@startgw#65
+[Chat][TQ]Kyaly[GM] to All  #65@gwstart#65
+[Chat][TQ]Kyaly[GM] to All  #65@exit#65
+[Chat][TQ]Kyaly[GM] to All  #65@scroll tc#65

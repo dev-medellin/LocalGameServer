@@ -1,0 +1,8 @@
+[Item][TQ]Kyaly[GM] [ADD] [980762]350145 plus [0]
+[Item][TQ]Kyaly[GM] [REMOVE] [980762]350145 plus [0]
+[Item][TQ]Kyaly[GM] [MOVE] [980692]360129 plus [0]
+[Item][TQ]Kyaly[GM] [REMOVE] [980692]360129 plus [0]
+[Item][TQ]Kyaly[GM] [MOVE] [980762]350145 plus [0]
+[Item][TQ]Kyaly[GM] [REMOVE] [980762]350145 plus [0]
+[Item][TQ]Kyaly[GM] [ADD] [980762]350145 plus [0]
+[Item][TQ]Kyaly[GM] [REMOVE] [980762]350145 plus [0]

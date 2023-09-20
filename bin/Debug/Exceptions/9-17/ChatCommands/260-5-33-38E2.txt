@@ -1,0 +1,10 @@
+----Exception message----
+Index was outside the bounds of the array.
+----End of exception message----
+
+----Stack trace----
+   at COServer.Game.MsgServer.MsgMessage.ChatCommands(GameClient client, MsgMessage msg) in C:\Users\Administrator\Desktop\MyClassic\Game Server\Game\MsgServer\MsgMessage.cs:line 1585
+   at COServer.Game.MsgServer.MsgMessage.MsgHandler(GameClient client, Packet packet) in C:\Users\Administrator\Desktop\MyClassic\Game Server\Game\MsgServer\MsgMessage.cs:line 157
+   at COServer.Program.Game_Receive(SecuritySocket obj, Packet stream) in C:\Users\Administrator\Desktop\MyClassic\Game Server\Program.cs:line 750
+----End of stack trace----
+

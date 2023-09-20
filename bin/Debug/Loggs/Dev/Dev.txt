@@ -1,0 +1,879 @@
+[Dev][Dev]Arthur[PM][PM]tele 1002 443 360 
+[Dev][Dev]Arthur[PM][PM]tele 1002 443 378 
+[Dev][Dev]Arthur[PM][PM]tele 1002 421 378 
+[Dev][Dev]Arthur[PM][PM]tele 1002 421 375 
+[Dev][Dev]Arthur[PM][PM]tele 1002 421 382 
+[Dev][Dev]Arthur[PM][PM]tele 1002 421 381 
+[Dev][Dev]Arthur[PM][PM]tele 1002 412 376 
+[Dev][Dev]Arthur[PM][PM]tele 1002 412 366 
+[Dev][Dev]Arthur[PM][PM]tele 1002 412 361 
+[Dev][Dev]Arthur[PM][PM]tele 1700 608 632 
+[Dev][Dev]Arthur[PM][PM]vip 6 
+[Dev][Dev]Arthur[PM][PM]tele 1002 442 360 
+[Dev][Dev]Arthur[PM][PM]item 720549 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 800020 0 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]clear 
+[Dev][Dev]Arthur[PM][PM]life 
+[Dev][Dev]Arthur[PM][PM]clas 45 
+[Dev][Dev]Arthur[PM][PM]clas 55 
+[Dev][Dev]Arthur[PM][PM]class 55 
+[Dev][Dev]Arthur[PM][PM]class 45 
+[Dev][Dev]Arthur[PM][PM]cps 0 
+[Dev][Dev]Arthur[PM][PM]item 3004465 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 720957 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 720957 0 0 0 0 0 10 
+[Dev][Dev]Arthur[PM][PM]item 720957 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]clear 
+[Dev][Dev]Arthur[PM][PM]item 150269 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 721117 0 0 0 0 0 
+[Dev]wasss[PM]item 201009 0 0 0 0 0 
+[Dev]wasss[PM]item 201009 0 0 0 0 0 
+[Dev]wasss[PM]item 201009 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 723753 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]class 25 
+[Dev][Dev]Arthur[PM][PM]clear 
+[Dev][Dev]Arthur[PM][PM]class 15 
+[Dev][Dev]Arthur[PM][PM]item 723753 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]max_attack 100000 100000 
+[Dev][Dev]Arthur[PM][PM]tele 2054 425 407 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]revive 
+[Dev][Dev]Arthur[PM][PM]revive 
+[Dev][Dev]Arthur[PM][PM]max_attack 100000 100000 
+[Dev][Dev]Arthur[PM][PM]max_attack 1000000 1000000 
+[Dev][Dev]Arthur[PM][PM]clear 
+[Dev][Dev]Arthur[PM][PM]max_attack 1000000 1000000 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]max_attack 1000000 1000000 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]max_attack 1000000 1000000 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]max_attack 1000000 1000000 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]item 725067 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 136008 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 730007 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 730008 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 700103 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 183325 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]leave 
+[Dev][Dev]Arthur[PM][PM]exit 
+[Dev][Dev]Arthur[PM][PM]max_attack 2000000 2000000 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]max_attack 2000000 2000000 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]clear 
+[Dev][Dev]Arthur[PM][PM]clear 
+[Dev][Dev]Arthur[PM][PM]money 999999999 
+[Dev][Dev]Arthur[PM][PM]onlinepoints 999999 
+[Dev][Dev]Arthur[PM][PM]item 720957 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]clear 
+[Dev][Dev]Arthur[PM][PM]item 720957 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 801001 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]clear 
+[Dev][Dev]Arthur[PM][PM]item 800617 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 720957 0 0 0 0 0 10 
+[Dev][Dev]Arthur[PM][PM]item 720957 0 0 0 0 0 10 
+[Dev][Dev]Arthur[PM][PM]item 821028 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 821028 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 821029 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]clear 
+[Dev][Dev]Arthur[PM][PM]item 111003 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 821028 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]bashee 
+[Dev][Dev]Arthur[PM][PM]item 213735 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 2137350 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 1181100 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 118110 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]max_attack 3000000 3000000 
+[Dev][Dev]Arthur[PM][PM]m_attack 3000000 3000000 
+[Dev][Dev]Arthur[PM][PM]max_attack 1000000 1000000 
+[Dev][Dev]Arthur[PM][PM]spawn_terato 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]clear 
+[Dev][Dev]Arthur[PM][PM]max_attack 4000000 3000000 
+[Dev][Dev]Arthur[PM][PM]max_attack 1000000 1000000 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]max_attack 1000000 1000000 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]spwn_terato 
+[Dev][Dev]Arthur[PM][PM]xp 
+[Dev][TQ]Kyaly[GM][PM]rev 
+[Dev][Dev]Arthur[PM][PM]online 
+[Dev][Dev]Arthur[PM][PM]online 
+[Dev][Dev]Arthur[PM][PM]online 
+[Dev][Dev]Arthur[PM][PM]tele 5000 50 50 
+[Dev][Dev]Arthur[PM][PM]scroll ma 
+[Dev][Dev]Arthur[PM][PM]clear 
+[Dev][Dev]Arthur[PM][PM]scroll tc 
+[Dev][Dev]Arthur[PM][PM]online 
+[Dev][Dev]Arthur[PM][PM]class 15 
+[Dev][Dev]Arthur[PM][PM]give CheckMate level 140 
+[Dev][Dev]Arthur[PM][PM]bring CheckMate 
+[Dev][Dev]Arthur[PM][PM]trace CheckMate 
+[Dev][Dev]Arthur[PM][PM]scroll tc 
+[Dev][Dev]Arthur[PM][PM]bring CheckMate 
+[Dev]CheckMate[PM]resetscores 
+[Dev][Dev]Arthur[PM][PM]resetscores 
+[Dev]CheckMate[PM]resetscores 
+[Dev][Dev]Arthur[PM][PM]resetscores 
+[Dev][Dev]Arthur[PM][PM]item 800111 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]scroll tc 
+[Dev][Dev]Arthur[PM][PM]item 469469 12 7 255 13 13 
+[Dev][Dev]Arthur[PM][PM]item 420439 12 7 255 13 13 2 
+[Dev][Dev]Arthur[PM][PM]item 800111 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]facke 
+[Dev][Dev]Arthur[PM][PM]online 
+[Dev][Dev]Arthur[PM][PM]facke 1 
+[Dev][Dev]Arthur[PM][PM]online 
+[Dev][Dev]Arthur[PM][PM]trace all 
+[Dev][Dev]Arthur[PM][PM]bring all 
+[Dev][Dev]Arthur[PM][PM]find facke 
+[Dev][Dev]Arthur[PM][PM]tele 5000 50 50 
+[Dev][Dev]Arthur[PM][PM]facke 9 
+[Dev][Dev]Arthur[PM][PM]online 
+[Dev][Dev]Arthur[PM][PM]facke 9 
+[Dev][Dev]Arthur[PM][PM]online 
+[Dev][Dev]Arthur[PM][PM]facke 20 
+[Dev][Dev]Arthur[PM][PM]online 
+[Dev][Dev]Arthur[PM][PM]facke 0 
+[Dev][Dev]Arthur[PM][PM]online 
+[Dev][Dev]Arthur[PM][PM]facke 1 
+[Dev][Dev]Arthur[PM][PM]online 
+[Dev][Dev]Arthur[PM][PM]item 824020 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]scroll ma 
+[Dev][Dev]Arthur[PM][PM]online 
+[Dev][Dev]Arthur[PM][PM]item 800111 
+[Dev][Dev]Arthur[PM][PM]item 800111 1 
+[Dev][Dev]Arthur[PM][PM]item 800111 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 2100095 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 2100095 255 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 2100095 255 255 255 13 13 
+[Dev][Dev]Arthur[PM][PM]clear 
+[Dev][Dev]Arthur[PM][PM]scroll tc 
+[Dev][Dev]Arthur[PM][PM]online 
+[Dev][Dev]Arthur[PM][PM]scroll ma 
+[Dev][Dev]Arthur[PM][PM]scroll tc 
+[Dev][Owner]Dev[GM][PM]online 
+[Dev][Owner]Dev[PM][PM]online 
+[Dev][Owner]Dev[PM][PM]trace instalock 
+[Dev][Owner]Dev[PM][PM]trace [Owner]Arthur[PM] 
+[Dev][Owner]Dev[PM][PM]scroll 1002 408 386 
+[Dev][Owner]Dev[PM][PM]tele 1002 408 386 
+[Dev][Owner]Dev[PM][PM]tele 1020 577 625 
+[Dev][Owner]Dev[PM][PM]life 
+[Dev][Dev]Arthur[PM][PM]scroll ma 
+[Dev][Dev]Arthur[PM][PM]honorpoints 150000 
+[Dev][Dev]Arthur[PM][PM]honorpoint 150000 
+[Dev][Owner]Dev[PM][PM]online 
+[Dev][Owner]Dev[PM][PM]tele 1002 438 412 
+[Dev][Owner]Dev[PM][PM]tele 1036 212 198 
+[Dev][Owner]Dev[PM][PM]item 723755 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]item 723754 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]item 723753 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]clear 
+[Dev][Owner]Dev[PM][PM]clear 
+[Dev][Owner]Dev[PM][PM]item 723753 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]tele 1002 437 238 
+[Dev][Owner]Dev[PM][PM]cps 1000 
+[Dev][Owner]Dev[PM][PM]clear 
+[Dev][Owner]Dev[PM][PM]item 723753 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]arenapoints 10000 
+[Dev][Owner]Dev[PM][PM]arenapoints 999999 
+[Dev][Owner]Dev[PM][PM]arenapoints 12321 
+[Dev][Owner]Dev[PM][PM]clear 
+[Dev][Dev]Arthur[PM][PM]give instalock level 140 
+[Dev][Dev]Arthur[PM][PM]give instalock cps 2000000000 
+[Dev][Owner]Dev[PM][PM]item 780000 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]give instalock donationpoints 22233 
+[Dev][Owner]Dev[PM][PM]clear 
+[Dev]instalock[PM]clear 
+[Dev]instalock[PM]clearinventory 
+[Dev]instalock[PM]clearinventory 
+[Dev][Owner]Dev[PM][PM]item 188180 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]item 188255 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]item 192475 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]item 192475 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]give instalock level 140 
+[Dev][Dev]Arthur[PM][PM]bring instalock 
+[Dev][Dev]Arthur[PM][PM]give instalock level 140 
+[Dev][Dev]Arthur[PM][PM]item 711083 0 0 0 0 0 3 
+[Dev][Dev]Arthur[PM][PM]bring instalock 
+[Dev][Owner]Dev[PM][PM]item 194235 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]invisible 
+[Dev][Owner]Dev[PM][PM]clear 
+[Dev][Dev]Arthur[PM][PM]give instalock level 140 
+[Dev][Owner]Dev[PM][PM]item 199755 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]bring instalock 
+[Dev][Dev]Arthur[PM][PM]give instalock level 140 
+[Dev][Dev]Arthur[PM][PM]bring instalock 
+[Dev][Dev]Arthur[PM][PM]give instalock level 140 
+[Dev][Dev]Arthur[PM][PM]uninvisible 
+[Dev][Dev]Arthur[PM][PM]bring 711083 
+[Dev][Dev]Arthur[PM][PM]bring instalock 
+[Dev][Owner]Dev[PM][PM]clear 
+[Dev][Dev]Arthur[PM][PM]item 480439 12 7 255 13 13 
+[Dev][Dev]Arthur[PM][PM]item 420439 12 7 255 13 13 
+[Dev][Owner]Dev[PM][PM]item 198805 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 130309 12 7 255 13 13 
+[Dev][Dev]Arthur[PM][PM]item 118309 12 7 255 13 13 
+[Dev][Dev]Arthur[PM][PM]item 120269 12 7 255 13 13 
+[Dev][Dev]Arthur[PM][PM]item 150269 12 7 255 13 13 
+[Dev][Dev]Arthur[PM][PM]item 160249 12 7 255 13 13 
+[Dev][Dev]Arthur[PM][PM]item 201009 12 1 0 100 100 
+[Dev][Dev]Arthur[PM][PM]item 202009 12 1 0 100 100 
+[Dev][Dev]Arthur[PM][PM]item 203009 12 1 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 300000 12 1 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 2100095 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]give instalock item 800111 
+[Dev][Dev]Arthur[PM][PM]item 800111 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 800111 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]scroll tc 
+[Dev][Dev]Arthur[PM][PM]scroll ma 
+[Dev][Dev]Arthur[PM][PM]clear 
+[Dev][Dev]Arthur[PM][PM]trace instalock 
+[Dev]instalock[PM]str 176 
+[Dev][Dev]Arthur[PM][PM]bring instalock 
+[Dev][Owner]Dev[PM][PM]item 183365 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]item 181575 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]scroll ma 
+[Dev][Dev]Arthur[PM][PM]clear 
+[Dev][Dev]Arthur[PM][PM]item 723342 0 0 0 0 0 40] 
+[Dev][Dev]Arthur[PM][PM]item 723342 0 0 0 0 0 40 
+[Dev][Dev]Arthur[PM][PM]item 723094 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]clear 
+[Dev][Dev]Arthur[PM][PM]item 723094 0 0 0 0 0 40 
+[Dev]instalock[PM]clearinventory 
+[Dev][Dev]Arthur[PM][PM]bring instalock 
+[Dev][Dev]Arthur[PM][PM]item 780000 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]item 780000 0 0 0 0 0 
+[Dev]instalock[PM]reallot 
+[Dev]instalock[PM]vit 537 
+[Dev][Owner]Dev[PM][PM]item 193400 0 0 0 0 0 
+[Dev][Dev]Arthur[PM][PM]give instalock money 999999999 
+[Dev][Owner]Dev[PM][PM]item 360114 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]item 360114 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]cps 100000000 
+[Dev][Owner]Dev[PM][PM]arenapoints 9999999 
+[Dev][Owner]Dev[PM][PM]rev 
+[Dev][Owner]Dev[PM][PM]max_attack 1000000 1000000 
+[Dev][Owner]Dev[PM][PM]max_attack 1000000 1000000 
+[Dev][Owner]Dev[PM][PM]item 800111 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]clear 
+[Dev][Owner]Dev[PM][PM]item 420439 12 7 255 13 13 
+[Dev][Owner]Dev[PM][PM]item 420439 12 7 255 13 13 
+[Dev][Owner]Dev[PM][PM]class 15 
+[Dev][Owner]Dev[PM][PM]reallot 
+[Dev][Owner]Dev[PM][PM]str 176 
+[Dev][Owner]Dev[PM][PM]item 136309 12 7 255 13 13 
+[Dev][Owner]Dev[PM][PM]info RhezaMaye 
+[Dev][Owner]Dev[PM][PM]item 800111 0 0 0 0 0 2 
+[Dev][Owner]Dev[PM][PM]item 822071 0 0 0 0 0 2 
+[Dev][Owner]Dev[PM][PM]class 65 
+[Dev][Owner]Dev[PM][PM]info  
+[Dev][Owner]Dev[PM][PM]info DangeR 
+[Dev][Owner]Dev[PM][PM]clear 
+[Dev][Owner]Dev[PM][PM]clear 
+[Dev]RhezaMaye[PM]spi 30 
+[Dev]RhezaMaye[PM]spi 30 
+[Dev]RhezaMaye[PM]str 160 
+[Dev][Owner]Dev[PM][PM]tele 3081 100 100 
+[Dev][Owner]Dev[PM][PM]tele 3045 200 200 
+[Dev][Owner]Dev[PM][PM]level 130 
+[Dev][Owner]Dev[PM][PM]spwn_terato 
+[Dev][Owner]Dev[PM][PM]revive 
+[Dev][Owner]Dev[PM][PM]level 130 
+[Dev][Owner]Dev[PM][PM]level 130 
+[Dev]Heroin[PM]vip 
+[Dev]Heroin[PM]agi 440 
+[Dev]Heroin[PM]str 74 
+[Dev]Heroin[PM]agi 366 
+[Dev]sc4tt3r[PM]agi 229 
+[Dev]sc4tt3r[PM]str 68 
+[Dev]sc4tt3r[PM]agi 6 
+[Dev]sc4tt3r[PM]agi 26 
+[Dev]RhezaMaye[PM]vit 498 
+[Dev][Owner]Dev[PM][PM]info Heroin 
+[Dev]Hanma[PM]clearinv 
+[Dev][Owner]Dev[PM][PM]item 181755 0 0 0 0 0 
+[Dev]Hanma[PM]vit 389 
+[Dev][Owner]Dev[PM][PM]item 182865 0 0 0 0 0 
+[Dev]Sakura[PM]autohunt\ 
+[Dev]Sakura[PM]autohunt 
+[Dev]Hanma[PM]vit 456 
+[Dev][Owner]Dev[PM][PM]online 
+[Dev]dumb[PM]resetscores 
+[Dev]Zjinn[PM]rescore 
+[Dev]Zjinn[PM]rescore 
+[Dev]Zjinn[PM]restartscore 
+[Dev]dumb[PM]resetscores 
+[Dev]Zjinn[PM]resetscores 
+[Dev]Zjinn[PM]rolescale 30 
+[Dev]dumb[PM]resetscores 
+[Dev]Zjinn[PM]resetscore 
+[Dev]Zjinn[PM]resetscores 
+[Dev]dumb[PM]resetscores 
+[Dev]Zjinn[PM]resetscores 
+[Dev]dumb[PM]resetscores 
+[Dev]Zjinn[PM]resetscores 
+[Dev]dumb[PM]resetscores 
+[Dev]Zjinn[PM]resetscores 
+[Dev]dumb[PM]resetscores 
+[Dev]Zjinn[PM]resetscores 
+[Dev]dumb[PM]resetscores 
+[Dev]dumb[PM]resetscores 
+[Dev]Zjinn[PM]resetscores 
+[Dev][Owner]Dev[PM][PM]online 
+[Dev]RhezaMaye[PM]str 49 
+[Dev]dumb[PM]resetscores 
+[Dev]Zjinn[PM]resetscores 
+[Dev]Zjinn[PM]resetscores 
+[Dev]Zjinn[PM]resetscores 
+[Dev]dumb[PM]resetscores 
+[Dev]Hanma[PM]vit 369 
+[Dev]RhezaMaye[PM]sgi 461 
+[Dev]RhezaMaye[PM]agi 461 
+[Dev][Owner]Dev[PM][PM]online 
+[Dev][Owner]Dev[PM][PM]announce we will have a server restart later 1 hour from now  
+[Dev][Owner]Dev[PM][PM]brodcast we will have a server restart later 1 hour from now  
+[Dev][Owner]Dev[PM][PM]brod we will have a server restart later 1 hour from now  
+[Dev]dumb[PM]agi 32 
+[Dev][Owner]Dev[PM][PM]banshee 
+[Dev]dumb[PM]agi 32 
+[Dev][Owner]Dev[PM][PM]vipinfo 
+[Dev][Owner]Dev[PM][PM]bc we will have a server restart later 1 hour from now  
+[Dev][Owner]Dev[PM][PM]bc We will add new npc later 
+[Dev][Owner]Dev[PM][PM]anns test 
+[Dev][Owner]Dev[PM][PM]ann test 
+[Dev][Owner]Dev[PM][PM]mapid 
+[Dev][Owner]Dev[PM][PM]map 
+[Dev][Owner]Dev[PM][PM]tele 39984 93 212 
+[Dev]DangeR[PM]spi 30 
+[Dev]dumb[PM]reallot 
+[Dev]dumb[PM]vit 537 
+[Dev]dumb[PM]vit 537 
+[Dev]Shisue[PM]agi 256 
+[Dev]DangeR[PM]str 65 
+[Dev]dumb[PM]agi 36 
+[Dev]Hanma[PM]agi 256 
+[Dev]Hanma[PM]str 176 
+[Dev]Hanma[PM]str 176 
+[Dev]Hanma[PM]agi 256 
+[Dev]DangeR[PM]agi 229 
+[Dev]dumb[PM]vit 537 
+[Dev]DangeR[PM]str 74 
+[Dev]DangeR[PM]agi 30 
+[Dev]Shisue[PM]agi 36 
+[Dev]Shisue[PM]vit 501 
+[Dev]dumb[PM]agi 36 
+[Dev]dumb[PM]str 176 
+[Dev]dumb[PM]vit 537 
+[Dev]Hanma[PM]agi 275 
+[Dev]Hanma[PM]str 176 
+[Dev]Hanma[PM]agi 537 
+[Dev]Hanma[PM]str 176 
+[Dev]Hanma[PM]vit 537 
+[Dev]FAKYOU[PM]agi 36 
+[Dev]FAKYOU[PM]vit 501 
+[Dev]Shisue[PM]agi 256 
+[Dev]Shisue[PM]agi 70 
+[Dev]Shisue[PM]agi 36 
+[Dev]Shisue[PM]vit 501 
+[Dev]Shisue[PM]agi 275 
+[Dev]Shisue[PM]agi 36 
+[Dev]Shisue[PM]vit 501 
+[Dev]Error[PM]banshee 
+[Dev]Error[PM]spook 
+[Dev][Owner]Dev[PM][PM]item 723753 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]clear 
+[Dev][Owner]Dev[PM][PM]item 723753 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]agi 32 
+[Dev]Shisue[PM]agi 275 
+[Dev][Owner]Dev[PM][PM]item 203009 12 1 0 0 0  
+[Dev][Owner]Dev[PM][PM]item 203009 12 1 0 0 0 
+[Dev][Owner]Dev[PM][PM]item 300000 12 0 0 0 0 
+[Dev]Display[PM]agi 235 
+[Dev]Display[PM]str 68 
+[Dev]Display[PM]clear 
+[Dev]FAKYOU[PM]banshee 
+[Dev]Error[PM]str 176 
+[Dev]Error[PM]agi 36 
+[Dev]Error[PM]agi 537 
+[Dev][Owner]Dev[PM][PM]online 
+[Dev][Owner]Dev[PM][PM]give EyEyEy level 130 
+[Dev]Error[PM]vit 537 
+[Dev]Shisue[PM]agi 36 
+[Dev]Shisue[PM]vit 501 
+[Dev]FAKYOU[PM]banshee 
+[Dev]EyEyEy[PM]agi 256 
+[Dev]Error[PM]banshee 
+[Dev]RhezaMaye[PM]vit 510 
+[Dev][Owner]Dev[PM][PM]item 722178 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]item 722178 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]item 722178 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]item 722178 0 0 0 0 0 
+[Dev]sc4tt3r[PM]banshee 
+[Dev]Error[PM]banshee 
+[Dev]FAKYOU[PM]banshee 
+[Dev][Owner]Dev[PM][PM]info FAKYOU 
+[Dev][Owner]Dev[PM][PM]max_attack 1000 1000 
+[Dev][Owner]Dev[PM][PM]life 
+[Dev][Owner]Dev[PM][PM]life 
+[Dev]Error[PM]str 176 
+[Dev][Owner]Dev[PM][PM]bc test ting 
+[Dev]~Chase~[PM]str 170 
+[Dev]Error[PM]vit 537 
+[Dev]EyEyEy[PM]agi 256 
+[Dev]EyEyEy[PM]str 74 
+[Dev]Error[PM]str 176 
+[Dev]Error[PM]agi 36 
+[Dev]Error[PM]vit 537 
+[Dev]Hanma[PM]str 176 
+[Dev]Hanma[PM]agi 276 
+[Dev]Hanma[PM]vit 537 
+[Dev]EyEyEy[PM]vit 177 
+[Dev]Hanma[PM]agi 276 
+[Dev]Hanma[PM]vit 537 
+[Dev][Owner]Dev[PM][PM]give ScaredGod level 140 
+[Dev]FAKYOU[PM]join 
+[Dev]Hanma[PM]agi 276 
+[Dev]Hanma[PM]vit 537 
+[Dev][Owner]Dev[PM][PM]give ScaredGod item 723753 0 0 0 0 0 
+[Dev]Hanma[PM]vit 537 
+[Dev][Owner]Dev[PM][PM]give ScaredGod cps 10000000 
+[Dev][Owner]Dev[PM][PM]give ScaredGod level 140 
+[Dev]FAKYOU[PM]lavabeast 
+[Dev]ScaredGod[PM]clear 
+[Dev]ScaredGod[PM]clear 
+[Dev][Owner]Dev[PM][PM]give ScaredGod level 140 
+[Dev]ScaredGod[PM]agi 32 
+[Dev]Hanma[PM]banshee 
+[Dev]Hanma[PM]banshee 
+[Dev]~Chase~[PM]Agi 36 
+[Dev]~Chase~[PM]agi 36 
+[Dev][Owner]Dev[PM][PM]give ScaredGod money 999999999 
+[Dev][Owner]Dev[PM][PM]give ScaredGod money 50000000 
+[Dev][Owner]Dev[PM][PM]give ScaredGod money 999999999 
+[Dev][Owner]Dev[PM][PM]online 
+[Dev]Hanma[PM]str 176 
+[Dev]Hanma[PM]str 176 
+[Dev]ScaredGod[PM]vit 357 
+[Dev]Hanma[PM]vit 537 
+[Dev]~Chase~[PM]vit 501 
+[Dev]RhezaMaye[PM]str 176 
+[Dev]RhezaMaye[PM]agi 36 
+[Dev]RhezaMaye[PM]agi 36 
+[Dev]2Fast2Furious[PM]agi 120 
+[Dev]Hanma[PM]banshee 
+[Dev]2Fast2Furious[PM]agi 120 
+[Dev]2Fast2Furious[PM]agi 13 
+[Dev][Owner]Dev[PM][PM]give ScaredGod item 480439 12 7 235 13 13 
+[Dev][Owner]Dev[PM][PM]give ScaredGod item 420439 12 7 225 13 13 
+[Dev]RhezaMaye[PM]vit 537 
+[Dev]ScaredGod[PM]reallot 
+[Dev]ScaredGod[PM]reallot 
+[Dev]ScaredGod[PM]str 176 
+[Dev]ScaredGod[PM]agi 32 
+[Dev]ScaredGod[PM]agi 4 
+[Dev]ScaredGod[PM]agi 36 
+[Dev]ScaredGod[PM]str 176 
+[Dev]ScaredGod[PM]vit 537 
+[Dev]2Fast2Furious[PM]agi 253 
+[Dev][Owner]Dev[PM][PM]give ScaredGod item 722178 0 0 0 0 0 3 
+[Dev][Owner]Dev[PM][PM]give ScaredGod item 722178 0 0 0 0 0 5 
+[Dev]Hanma[PM]str 176 
+[Dev]Hanma[PM]vit 537 
+[Dev]Shisue[PM]agi 275 
+[Dev]Shisue[PM]agi 36 
+[Dev]Shisue[PM]vit 501 
+[Dev]FAKYOU[PM]banshee 
+[Dev]Hanma[PM]str 176 
+[Dev]Hanma[PM]agi 276 
+[Dev]CryBaby[PM]str 166 
+[Dev]CryBaby[PM]vit 361 
+[Dev]ZirktY[PM]vit 537 
+[Dev]FAKYOU[PM]banshee 
+[Dev]ScaredGod[PM]banshee 
+[Dev]FAKYOU[PM]banshee 
+[Dev]FAKYOU[PM]banshee 
+[Dev]RhezaMaye[PM]str 176 
+[Dev]RhezaMaye[PM]vit 537 
+[Dev]Hanma[PM]vit 537 
+[Dev]RhezaMaye[PM]agi 36 
+[Dev]RhezaMaye[PM]vit 501 
+[Dev]Costa[PM]leave 
+[Dev]Costa[PM]resetscoress 
+[Dev]Costa[PM]resetscores 
+[Dev]Error[PM]resetscore 
+[Dev]Error[PM]resetscores 
+[Dev]Costa[PM]resetscores 
+[Dev]Error[PM]resetscores 
+[Dev]FAKYOU[PM]banshee 
+[Dev]Error[PM]resetscores 
+[Dev]Costa[PM]resetscores 
+[Dev]Gaotu[PM]leave 
+[Dev]Costa[PM]leave 
+[Dev]Costa[PM]resetsclres 
+[Dev]Costa[PM]resetsclres 
+[Dev]Gaotu[PM]resetscores 
+[Dev]Costa[PM]resetscores 
+[Dev]Gaotu[PM]resetscores 
+[Dev]Costa[PM]resetscores 
+[Dev]FAKYOU[PM]banshee 
+[Dev]Costa[PM]resetscores 
+[Dev]Gaotu[PM]resetscores 
+[Dev]Error[PM]resetscores 
+[Dev]Gaotu[PM]leave 
+[Dev]Hanma[PM]agi 36 
+[Dev]Costa[PM]leave 
+[Dev]Error[PM]agi 537 
+[Dev]Error[PM]vit 537 
+[Dev]Hanma[PM]vit 501 
+[Dev]Heroin[PM]banshee 
+[Dev]2ez4me[PM]agi 32 
+[Dev]Error[PM]banshee 
+[Dev]Error[PM]spook 
+[Dev]2ez4me[PM]clear 
+[Dev]2ez4me[PM]clearinventory 
+[Dev]Gaotu[PM]resetscores 
+[Dev]2ez4me[PM]scroll dc 
+[Dev]Shisue[PM]agi 275 
+[Dev]Shisue[PM]agi 36 
+[Dev]Shisue[PM]vit 501 
+[Dev]Hanma[PM]str 176 
+[Dev]Hanma[PM]vit 537 
+[Dev]ZirktY[PM]str 176 
+[Dev]2ez4me[PM]agi 537 
+[Dev]ZirktY[PM]agi 27 
+[Dev]Hanma[PM]banshee 
+[Dev]Error[PM]agi 537 
+[Dev]Error[PM]banshee 
+[Dev]Hanma[PM]agi 36 
+[Dev]Hanma[PM]str 176 
+[Dev]Hanma[PM]vit 537 
+[Dev]2ez4me[PM]vit 537 
+[Dev]Hanma[PM]snowbanshee 
+[Dev]Hanma[PM]snowbanshee 
+[Dev]Hanma[PM]banshee 
+[Dev]Hanma[PM]terato 
+[Dev]Hanma[PM]spook 
+[Dev]ZirktY[PM]vit 537 
+[Dev]2ez4me[PM]vit 537 
+[Dev]EyEyEy[PM]vip 
+[Dev]EyEyEy[PM]fps 900 
+[Dev]2ez4me[PM]agi 537 
+[Dev]EyEyEy[PM]fps 900 
+[Dev]2ez4me[PM]str 176 
+[Dev]2ez4me[PM]vit 537 
+[Dev]Gaotu[PM]leave 
+[Dev]CarlGamingPH[PM]leave 
+[Dev]Error[PM]vit 537 
+[Dev]ScaredGod[PM]str 176 
+[Dev]ScaredGod[PM]vit 537 
+[Dev]Gyomie[PM]spi 134 
+[Dev]Gyomie[PM]vit 403 
+[Dev]Error[PM]agi 537 
+[Dev]ScaredGod[PM]spook 
+[Dev]Error[PM]vit 537 
+[Dev]FAKYOU[PM]banshee 
+[Dev]FAKYOU[PM]banshee 
+[Dev]ZirktY[PM]agi 36 
+[Dev]ZirktY[PM]str 176 
+[Dev]ZirktY[PM]vit 537 
+[Dev]FAKYOU[PM]banshee 
+[Dev]FAKYOU[PM]terato 
+[Dev]FAKYOU[PM]spook 
+[Dev]Kai~[PM]clearinventory 
+[Dev][Owner]Dev[PM][PM]item 720399 0 0 0 0 0 
+[Dev]FAKYOU[PM]vit 414 
+[Dev]Error[PM]banshee 
+[Dev]Error[PM]agi 537 
+[Dev]FAKYOU[PM]agi 36 
+[Dev]FAKYOU[PM]vit 537 
+[Dev]Kai~[PM]vit 410 
+[Dev]FAKYOU[PM]banshee 
+[Dev]Kai~[PM]str 74 
+[Dev]Kai~[PM]agi 379 
+[Dev][Owner]Dev[PM][PM]tele 1601200 200 
+[Dev]Error[PM]vit 537 
+[Dev][Owner]Dev[PM][PM]tele 2056 230 230 
+[Dev][Owner]Dev[PM][PM]tele 2054 230 230 
+[Dev]FAKYOU[PM]spook 
+[Dev][Owner]Dev[PM][PM]item 3003340 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]tele 3825 230 230 
+[Dev]Error[PM]agi 537 
+[Dev][Owner]Dev[PM][PM]map 
+[Dev]CheckMate[PM]clearinventory 
+[Dev]Error[PM]vi t537 
+[Dev]Error[PM]vit 537 
+[Dev]CheckMate[PM]str 176 
+[Dev][Owner]Dev[PM][PM]give Keeno item 723753 0 0 0 0 0 
+[Dev]sc4tt3r[PM]vit 123 
+[Dev][Owner]Dev[PM][PM]give Keeno item 723753 0 0 0 0 0 
+[Dev]Error[PM]banshee 
+[Dev]Error[PM]agi 537 
+[Dev][Owner]Dev[PM][PM]item 723753 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]ckear 
+[Dev][Owner]Dev[PM][PM]clear 
+[Dev][Owner]Dev[PM][PM]item 723753 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]give Keeno level 140 
+[Dev][Owner]Dev[PM][PM]item 800000 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]give Keeno item 723753 0 0 0 0 0 
+[Dev]CheckMate[PM]agi 537 
+[Dev]CheckMate[PM]spook 
+[Dev]CheckMate[PM]banshee 
+[Dev]CheckMate[PM]clearinventory 
+[Dev]Keeno[PM]str 28 
+[Dev]Error[PM]resetscores 
+[Dev]Keeno[PM]resetscores 
+[Dev]Kai~[PM]clearinventory 
+[Dev]Keeno[PM]resetscores 
+[Dev]CheckMate[PM]spook 
+[Dev]Error[PM]resetscores 
+[Dev][Owner]Dev[PM][PM]item 727317 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]item 720960 0 0 0 0 0 
+[Dev]CheckMate[PM]banshee 
+[Dev][Owner]Dev[PM][PM]bc Server will restart VISIT discord for more information 
+[Dev]Keeno[PM]leave 
+[Dev]Keeno[PM]night 
+[Dev]Error[PM]night 
+[Dev]Error[PM]day 
+[Dev]Error[PM]cps 99999999999999999 
+[Dev]Error[PM]ban [Owner]Dev[PM] 
+[Dev][Owner]Dev[PM][PM]exit 
+[Dev][Owner]Dev[PM][PM]bc P6 price from 10m to 5m  
+[Dev][Owner]Dev[PM][PM]bc Test System 
+[Dev][Owner]Dev[PM][PM]max_attack 100000 100000 
+[Dev][Owner]Dev[PM][PM]spwn_terato 213883 
+[Dev][Owner]Dev[PM][PM]spwn_terato 213883 
+[Dev][Owner]Dev[PM][PM]spwn_terato 20060 
+[Dev][Owner]Dev[PM][PM]clear 
+[Dev][Owner]Dev[PM][PM]item 723753 0 0 0 0 0 
+[Dev][Owner]Dev[PM][PM]spwn_terato 2436 
+[Dev][Owner]Dev[PM][PM]spwn_terato 2436 
+[Dev][Owner]Dev[PM][PM]spwn_terato 2436 
+[Dev][Owner]Dev[PM][PM]spwnboss 
+[Dev][Owner]Dev[PM][PM]revive 
+[Dev][Owner]Dev[PM][PM]revive 
+[Dev][Owner]Dev[PM][PM]revive 
+[Dev][Owner]Dev[PM][PM]max_attack 1000000 1000000 
+[Dev][Owner]Dev[PM][PM]revive 
+[Dev]Error[PM]chaosguard 
+[Dev]Error[PM]spook 
+[Dev]Error[PM]banshee 
+[Dev]Error[PM]banshee 
+[Dev]Error[PM]banshee 
+[Dev][Owner]Dev[PM][PM]banshee 
+[Dev][Owner]Dev[PM][PM]clear 
+[Dev][Owner]Dev[PM][PM]online 
+[Dev][Owner]Dev[PM][PM]banshee 
+[Dev][Owner]Dev[PM][PM]max_attack 1000000 1000000 
+[Dev][Owner]Dev[PM][PM]spwn_terato 20101 
+[Dev][Owner]Dev[PM][PM]spwn_terato 6643 
+[Dev][Owner]Dev[PM][PM]bc Last restart 
+[Dev]Keeno[PM]str 176 
+[Dev][Owner]Dev[PM][PM]bc don't forget to send tickets if you encounter an issue on server 
+[Dev][Owner]Dev[PM][PM]clear 
+[Dev]Keeno[PM]vit 537 
+[Dev]LikeABoss[PM]rolescale 50 
+[Dev]CryBaby[PM]agi 62 
+[Dev]CryBaby[PM]agi 200 
+[Dev]CryBaby[PM]agi 13 
+[Dev]Error[PM]spook 
+[Dev]Error[PM]spook 
+[Dev]sc4tt3r[PM]spook 
+[Dev]CryBaby[PM]vit 537 
+[Dev]Error[PM]str 176 
+[Dev]Error[PM]agi 537 
+[Dev]Error[PM]banshee 
+[Dev]Error[PM]spook 
+[Dev]Error[PM]vit 537 
+[Dev]Error[PM]agi 537 
+[Dev]RhezaMaye[PM]str 176 
+[Dev]RhezaMaye[PM]vit 537 
+[Dev]Error[PM]vit 537 
+[Dev]FAKYOU[PM]banshee 
+[Dev]Error[PM]agi 537 
+[Dev]FAKYOU[PM]agi 537 
+[Dev]Error[PM]vit 537 
+[Dev]FAKYOU[PM]spook 
+[Dev]FAKYOU[PM]banshee 
+[Dev]Error[PM]str 176 
+[Dev]Error[PM]vit 537 
+[Dev]RhezaMaye[PM]agi 36 
+[Dev]RhezaMaye[PM]str 176 
+[Dev]RhezaMaye[PM]vit 537 
+[Dev]Error[PM]agi 537 
+[Dev]Error[PM]banshee 
+[Dev]Error[PM]vit 537 
+[Dev]Error[PM]spook 
+[Dev]Ottoman[PM]reallot 
+[Dev]FAKYOU[PM]banshee 
+[Dev]smallbig[PM]agi 300 
+[Dev]smallbig[PM]str 100 
+[Dev]smallbig[PM]clear inventory 
+[Dev]smallbig[PM]clearinventory 
+[Dev]smallbig[PM]rolescale 1 
+[Dev]Error[PM]terato 
+[Dev]Error[PM]dc 
+[Dev]Error[PM]dc 
+[Dev]Error[PM]dc 
+[Dev]Error[PM]dc 
+[Dev]smallbig[PM]agi 137 
+[Dev]CheckMate[PM]spook 
+[Dev]CheckMate[PM]spook 
+[Dev]Kai~[PM]clearinventory 
+[Dev]CheckMate[PM]clearinventory 
+[Dev]CheckMate[PM]spook 
+[Dev]bigboobs[PM]spi 300 
+[Dev]bigboobs[PM]spi 100 
+[Dev]bigboobs[PM]vit 82 
+[Dev]Kai~[PM]clearinventory 
+[Dev]bigboobs[PM]spi 482 
+[Dev]Kai~[PM]clearinventory 
+[Dev][Owner]Dev[PM][PM]bc This server has no moderator/staff assistant. Its only me and nothing else 
+[Dev]Kai~[PM]clearinventory 
+[Dev][Owner]Dev[PM][PM]bc Our donation is now available, for more information message me on discord 
+[Dev]CheckMate[PM]banshee 
+[Dev]Kai~[PM]clearinventory 
+[Dev]sc4tt3r[PM]clearinv 
+[Dev]sc4tt3r[PM]clear inv 
+[Dev]sc4tt3r[PM]clearinventory 
+[Dev]EyEyEy[PM]clear 
+[Dev]EyEyEy[PM]clearinventory 
+[Dev]EyEyEy[PM]clearinventory 
+[Dev]Kai~[PM]agi 537 
+[Dev]CheckMate[PM]spook 
+[Dev]Kai~[PM]spook 
+[Dev]sc4tt3r[PM]clearinventory 
+[Dev]DaddyChill[PM]agi 32 
+[Dev]DaddyChill[PM]str 176 
+[Dev]CheckMate[PM]clearinventory 
+[Dev]CheckMate[PM]clearinventory 
+[Dev]Error[PM]banshee 
+[Dev]Error[PM]spook 
+[Dev]brobro[PM]agi 200 
+[Dev]brobro[PM]agi 53 
+[Dev]brobro[PM]clearinventory 
+[Dev]~Ling~[PM]agi 250 
+[Dev]~Ling~[PM]str 175 
+[Dev]~Ling~[PM]str 175 
+[Dev]~Ling~[PM]str 120 
+[Dev]sc4tt3r[PM]clearinventory 
+[Dev]DaddyChill[PM] 
+[Dev]DaddyChill[PM]vit 537 
+[Dev]DaddyChill[PM]agi 537 
+[Dev][Owner]Dev[PM][PM]online 
+[Dev][Owner]Dev[PM][PM]bc Invite more friend and I will make event and prizes are 2 Garments or P6 souls #35 
+[Dev]brobro[PM]agi 22 
+[Dev]Error[PM]agi 537 
+[Dev]Error[PM]banshee 
+[Dev]EyEyEy[PM]clearinvnetory 
+[Dev]EyEyEy[PM]clearinventory 
+[Dev]Error[PM]newboss 
+[Dev]Error[PM]newbossplayer 
+[Dev]Error[PM]darkdemon 
+[Dev]Error[PM]darkmoondemon 
+[Dev]Error[PM]demon 
+[Dev]Error[PM]dark 
+[Dev]Error[PM]darkmoon 
+[Dev]ZirktY[PM]str 40 
+[Dev]EyEyEy[PM]clearinventory 
+[Dev]ZirktY[PM]str 176 
+[Dev]ZirktY[PM]agi 36 
+[Dev]ZirktY[PM]agi 237 
+[Dev]ZirktY[PM]vit 300 
+[Dev]~SKYNoob[PM]agi 275 
+[Dev]EyEyEy[PM]clearinventory 
+[Dev]Gaotu[PM]leave 
+[Dev]EyEyEy[PM]clearinventory 
+[Dev]~SKYNoob[PM]vit 497 
+[Dev]~SKYNoob[PM]stre 176 
+[Dev]~SKYNoob[PM]str 176 
+[Dev]~SKYNoob[PM]agi 275 
+[Dev]~SKYNoob[PM]vit 497 
+[Dev]EyEyEy[PM]clearinventory 
+[Dev]RhezaMaye[PM]agi 537 
+[Dev]ZirktY[PM]vit 537 
+[Dev]EyEyEy[PM]clearinventory 
+[Dev][Owner]Dev[PM][PM]bc Server Restart  
+[Dev][Owner]Dev[PM][PM]bc Server will restart 16:33 Server time #43#43#43 
+[Dev][Owner]Dev[PM][PM]bc Server will restart 16:33 Server time #43#43#43 
+[Dev][Owner]Dev[PM][PM]bc Server Restart  
+[Dev][Owner]Dev[PM][PM]exit 
+[Dev][Owner]Dev[PM][PM]bc damn give me a second ill add VIP book so you guys can disable drop 
+[Dev][Owner]Dev[PM][PM]bc Lol wanted to add it on command so item slot will not occupied 
+[Dev]EyEyEy[PM]vip <<-----  
+[Dev]EyEyEy[PM]vip 
+[Dev][Owner]Dev[PM][PM]clear 
+[Dev][Owner]Dev[PM][PM]bc Ape Domination will reward 10m cps soon 
+[Dev][Owner]Dev[PM][PM]rev 
+[Dev][Owner]Dev[PM][PM]max_attack 25000 25000 
+[Dev][Owner]Dev[PM][PM]max_attack 250000 250000 
+[Dev][Owner]Dev[PM][PM]life 
+[Dev][Owner]Dev[PM][PM]max_attack 120000 120000 
+[Dev][Owner]Dev[PM][PM]max_attack 24000 26000 
+[Dev][Owner]Dev[PM][PM]rev 
+[Dev][Owner]Dev[PM][PM]max_attack 24000 30000 
+[Dev][Owner]Dev[PM][PM]rev 
+[Dev][Owner]Dev[PM][PM]max_attack 24000 30000 
+[Dev][Owner]Dev[PM][PM]rev 
+[Dev][Owner]Dev[PM][PM]rev 
+[Dev][Owner]Dev[PM][PM]rev 
+[Dev][Owner]Dev[PM][PM]rev 
+[Dev]EyEyEy[PM]clearinventory 
+[Dev]~SKYNoob[PM]agi 497 
+[Dev]~SKYNoob[PM]str 176 
+[Dev]~SKYNoob[PM]agi 275 
+[Dev]EyEyEy[PM]clearinventory 
+[Dev]Error[PM]terato 
+[Dev]~SKYNoob[PM]str 176 
+[Dev]~SKYNoob[PM]agi 321 
+[Dev]Error[PM]banshee 
+[Dev]~SKYNoob[PM]vit 497 
+[Dev]Error[PM]vit 537 
+[Dev]EyEyEy[PM]clearinventory 
+[Dev]Hunterx[PM]str 74 
+[Dev]Hunterx[PM]agi 256 
+[Dev]RhezaMaye[PM]str 176 
+[Dev]RhezaMaye[PM]vit 537 
+[Dev]RhezaMaye[PM]agi 537 
+[Dev]RhezaMaye[PM]realot 
+[Dev]RhezaMaye[PM]agi 537 
+[Dev]EyEyEy[PM]clearinventory 
+[Dev]FAKYOU[PM]banshee 
+[Dev]EyEyEy[PM]clearinventory 
+[Dev]VENOM[PM]auto 
+[Dev]FAKYOU[PM]spook 
+[Dev]VENOM[PM]dragon 
+[Dev]EyEyEy[PM]clearinventory 
+[Dev][Owner]Dev[PM][PM]bc anyone can I restart the server for emergency purpose, someone is attacking our serv 
+[Dev][Owner]Dev[PM][PM]bc I need to turn on the anti-ddos for secrure ping  
+[Dev][Owner]Dev[PM][PM]bc server will restart now  
+[Dev][Owner]Dev[PM][PM]exit 
+[Dev]FAKYOU[PM]spook 
+[Dev][Owner]Dev[PM][PM]online 
+[Dev]FAKYOU[PM]banshee 
+[Dev][Owner]Dev[PM][PM]online 
+[Dev]FAKYOU[PM]dragon 
+[Dev]FAKYOU[PM]terato 
+[Dev]Error[PM]agi 537 
+[Dev]Error[PM]online 
+[Dev]Error[PM]banshee 
+[Dev][Owner]Dev[PM][PM]bc Share our post on facebook we already advertise and add more links 
+[Dev][Owner]Dev[PM][PM]online 
+[Dev][Owner]Dev[PM][PM]spawn 3020 

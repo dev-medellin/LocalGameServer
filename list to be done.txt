@@ -1,0 +1,68 @@
+bugs to be fixed :
+
+1- kill the captain , sometimes it ends and players are still in the map and cant get out , i suggest to fix it
+or add a npc in the map to let you out
+
+2- when your pk points are 30+ the TC conductress tells you ' i will not help murders ' and doesnt let you go to cities
+or market , remove this function
+
+3- need to check the steed race on test server ,the ending doesnt register properly and sometimes ure just there and dont win it
+
+4- you can shackle alive players and if they die , they are shackled ,make this skill only work on dead characters O.o
+
+5- you do not get the ying yang fruit upon winning the betting event ,only the cps
+
+6- need to revise other players changing name and it adds to friendlist
+
+7- some characters have skills they are not meant to have
+
+  7.1   deathcandy is a pure water with tornado skill
+  7.2   i have noticed i have reflect sometimes (i am water-monk-trojan) shouldnt have it
+
+8- when you are sent to jail (dying when you are 100+ pk pts) you are sent to some coords where you cant see your character
+ 
+  8.1 i think the coords are the next :   760.638
+
+9- when youre flying as an archer , other archers cant hit you
+@SuperNova
+things to be modified : 
+
+1- arrow packs are 500 ,make 10k again
+
+2- remove the freeze effect from banshee it causes the sliding bug and it annoys eveyrone
+
+3- reduce pots to heal 4k not 5k
+
+4- Make the enemies give 3pk not 10
+
+5- Make chain counter in custom (totally not important lol)
+
+6- disable memory agate working on the new steed race map
+
+7- archers normal attack is too fast ( needs to be reduced , they take pole too fast and in fights it stuns so much)
+
+8- speedgun (spear skill) hits toooo much ,needs to be tested and reduced
+
+7- make more spawns in vip maps,they SUCK SO BAD ,bird and bandit spawns are better
+
+8- make online points per minute ,not hour, because if you are online 10 mins and you relog,you lose the 10 mins online
+they should be 1 min = 1 point 
+
+  8.1 we need to think of better rewards to keep players online and make server look active
+things to be added :
+
+
+1- met scroll to shopping mall ( npcs asks for 61 mets and its cancer to pack so many mets )
+
+2- add [system] messages in screen (in the mid part of screen)  , can be the following :
+2.1
+
+      a- Selling/trading cps outside the game will lead to your accounts banned forever.
+      b- Join our discord group to be in touch with the community and suggest/report stuff
+      c- Random events every x:20 [KillTheCaptain,KingofHill,Lastman]
+      d- SnowBanshee spawns every x:50 BirdIsland [P6 Drops only]
+      e- TeratoDragon can be spawned in FG 6 or TC altar using DragonPills
+      f- Administrators have [GM/PM] in their name
+      g- Refer our server and gain rewards! (contact GM/PM or Moderator)
+3- Leveling maps, i guess you can grotto 3 ,increase the exp rate by like x30 or idk, we need
+players to get 140 easier ,we need newbies to stay in the game (HIGHEST PRIORITY)

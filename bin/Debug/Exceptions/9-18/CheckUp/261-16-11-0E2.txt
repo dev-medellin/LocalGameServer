@@ -1,0 +1,9 @@
+----Exception message----
+Object reference not set to an instance of an object.
+----End of exception message----
+
+----Stack trace----
+   at COServer.Game.MsgTournaments.MsgKillTheCaptain.CheckUp() in C:\Users\Administrator\Desktop\MyClassic\Game Server\Game\MsgTournaments\MsgKillTheCaptain.cs:line 250
+   at COServer.Game.MsgTournaments.MsgSchedules.CheckUp(Time32 clock) in C:\Users\Administrator\Desktop\MyClassic\Game Server\MsgSchedules.cs:line 263
+----End of stack trace----
+

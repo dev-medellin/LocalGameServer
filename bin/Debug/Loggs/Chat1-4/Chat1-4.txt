@@ -1,0 +1,8 @@
+[Chat]Kyaly to All  @spell 3321 0 0 0 0 0
+[Chat][TQ]Kyaly[GM] to All  @level 140
+[Chat][TQ]Kyaly[GM] to All  @onlinepoints 999999
+[Chat][TQ]Kyaly[GM] to All  @donationpoints 9999999
+[Chat][TQ]Kyaly[GM] to All  @cps 999999999
+[Chat][TQ]Kyaly[GM] to All  @vip 6
+[Chat][TQ]Kyaly[GM] to All  @scroll tc
+[Chat][TQ]Kyaly[GM] to All  @restart

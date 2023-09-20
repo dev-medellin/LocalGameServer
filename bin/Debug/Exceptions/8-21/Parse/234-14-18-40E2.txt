@@ -1,0 +1,11 @@
+----Exception message----
+Index was outside the bounds of the array.
+----End of exception message----
+
+----Stack trace----
+   at COServer.Database.ItemType.DBItem.Parse(String Line) in C:\Users\user\Desktop\MyClassic\Game Server\Database\ItemType.cs:line 1211
+   at COServer.Database.ItemType.Loading() in C:\Users\user\Desktop\MyClassic\Game Server\Database\ItemType.cs:line 485
+   at COServer.Database.Server.Initialize() in C:\Users\user\Desktop\MyClassic\Game Server\Database\Server.cs:line 185
+   at COServer.Program.Main(String[] args) in C:\Users\user\Desktop\MyClassic\Game Server\Program.cs:line 255
+----End of stack trace----
+

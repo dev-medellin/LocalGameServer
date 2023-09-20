@@ -1,0 +1,11 @@
+----Exception message----
+Only one usage of each socket address (protocol/network address/port) is normally permitted
+----End of exception message----
+
+----Stack trace----
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at COServer.ServerSockets.ServerSocket.Open(String IpAddres, UInt16 port, Int32 backlog) in C:\Users\user\Desktop\MyClassic\Game Server\ServerSockets\ServerSocket.cs:line 150
+   at COServer.Program.Main(String[] args) in C:\Users\user\Desktop\MyClassic\Game Server\Program.cs:line 271
+----End of stack trace----
+

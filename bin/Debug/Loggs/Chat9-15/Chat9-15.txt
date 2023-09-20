@@ -1,0 +1,84 @@
+[Chat][Dev]Arthur[PM] to All  @item 800020 0 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @clear
+[Chat][Dev]Arthur[PM] to All  @life
+[Chat][Dev]Arthur[PM] to All  @clas 45
+[Chat][Dev]Arthur[PM] to All  @clas 55
+[Chat][Dev]Arthur[PM] to All  @class 55
+[Chat][Dev]Arthur[PM] to All  @class 45
+[Chat][Dev]Arthur[PM] to All  @cps 0
+[Chat][Dev]Arthur[PM] to All  @item 3004465 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @item 720957 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @item 720957 0 0 0 0 0 10
+[Chat][Dev]Arthur[PM] to All  @item 720957 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @clear
+[Chat][Dev]Arthur[PM] to All  @item 150269 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @item 721117 0 0 0 0 0
+[Chat]wasss to All  @item 201009 0 0 0 0 0
+[Chat]wasss to All  @item 201009 0 0 0 0 0
+[Chat]wasss to All  @item 201009 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @item 723753 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @class 25
+[Chat][Dev]Arthur[PM] to All  @clear
+[Chat][Dev]Arthur[PM] to All  @class 15
+[Chat][Dev]Arthur[PM] to All  @item 723753 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @max_attack 100000 100000
+[Chat][Dev]Arthur[PM] to All  @tele 2054 425 407
+[Chat][Dev]Arthur[PM] to All  @spwn_terato
+[Chat][Dev]Arthur[PM] to All  @revive
+[Chat][Dev]Arthur[PM] to All  @revive
+[Chat][Dev]Arthur[PM] to All  @max_attack 100000 100000
+[Chat][Dev]Arthur[PM] to All  @max_attack 1000000 1000000
+[Chat][Dev]Arthur[PM] to All  @clear
+[Chat][Dev]Arthur[PM] to All  @max_attack 1000000 1000000
+[Chat][Dev]Arthur[PM] to All  @spwn_terato
+[Chat][Dev]Arthur[PM] to All  @spwn_terato
+[Chat][Dev]Arthur[PM] to All  @max_attack 1000000 1000000
+[Chat][Dev]Arthur[PM] to All  @spwn_terato
+[Chat][Dev]Arthur[PM] to All  @spwn_terato
+[Chat][Dev]Arthur[PM] to All  @spwn_terato
+[Chat][Dev]Arthur[PM] to All  @max_attack 1000000 1000000
+[Chat][Dev]Arthur[PM] to All  @spwn_terato
+[Chat][Dev]Arthur[PM] to All  @spwn_terato
+[Chat][Dev]Arthur[PM] to All  @max_attack 1000000 1000000
+[Chat][Dev]Arthur[PM] to All  @spwn_terato
+[Chat][Dev]Arthur[PM] to All  @spwn_terato
+[Chat][Dev]Arthur[PM] to All  @item 725067 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @item 136008 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @item 730007 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @item 730008 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @item 700103 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @item 183325 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @leave
+[Chat][Dev]Arthur[PM] to All  @exit
+[Chat][Dev]Arthur[PM] to All  @max_attack 2000000 2000000
+[Chat][Dev]Arthur[PM] to All  @spwn_terato
+[Chat][Dev]Arthur[PM] to All  @spwn_terato
+[Chat][Dev]Arthur[PM] to All  @max_attack 2000000 2000000
+[Chat][Dev]Arthur[PM] to All  @spwn_terato
+[Chat][Dev]Arthur[PM] to All  @spwn_terato
+[Chat][Dev]Arthur[PM] to All  @spwn_terato
+[Chat][Dev]Arthur[PM] to All  @spwn_terato
+[Chat][Dev]Arthur[PM] to All  @spwn_terato
+[Chat][Dev]Arthur[PM] to All  @clear
+[Chat][Dev]Arthur[PM] to All  @clear
+[Chat][Dev]Arthur[PM] to All  @money 999999999
+[Chat][Dev]Arthur[PM] to All  @onlinepoints 999999
+[Chat][Dev]Arthur[PM] to All  @item 720957 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @clear
+[Chat][Dev]Arthur[PM] to All  @item 720957 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @item 801001 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @clear
+[Chat][Dev]Arthur[PM] to All  @item 800617 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @item 720957 0 0 0 0 0 10
+[Chat][Dev]Arthur[PM] to All  @item 720957 0 0 0 0 0 10
+[Chat][Dev]Arthur[PM] to All  @item 821028 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @item 821028 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @item 821029 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @clear
+[Chat][Dev]Arthur[PM] to All  @item 111003 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @item 821028 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @bashee
+[Chat][Dev]Arthur[PM] to All  @item 213735 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @item 2137350 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @item 1181100 0 0 0 0 0
+[Chat][Dev]Arthur[PM] to All  @item 118110 0 0 0 0 0

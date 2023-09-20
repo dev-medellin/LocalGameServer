@@ -1,0 +1,20 @@
+[Chat][TQ]Kyaly[GM] to All  #65@clear#65
+[Chat][TQ]Kyaly[GM] to All  nice
+[Chat][TQ]Kyaly[GM] to All  @item 188180 0 0 0 0 0
+[Chat][TQ]Kyaly[GM] to All  @cps 0
+[Chat][TQ]Kyaly[GM] to All  #65@cps 0#65
+[Chat][Owner]Arthur to All  @cps 1
+[Chat][Owner]Arthur to All  @cps 1000
+[Chat][Dev]Arthur[PM] to All  @tele 1002 443 360
+[Chat][Dev]Arthur[PM] to All  @tele 1002 443 378
+[Chat][Dev]Arthur[PM] to All  @tele 1002 421 378
+[Chat][Dev]Arthur[PM] to All  @tele 1002 421 375
+[Chat][Dev]Arthur[PM] to All  @tele 1002 421 382
+[Chat][Dev]Arthur[PM] to All  @tele 1002 421 381
+[Chat][Dev]Arthur[PM] to All  @tele 1002 412 376
+[Chat][Dev]Arthur[PM] to All  @tele 1002 412 366
+[Chat][Dev]Arthur[PM] to All  @tele 1002 412 361
+[Chat][Dev]Arthur[PM] to All  @tele 1700 608 632
+[Chat][Dev]Arthur[PM] to All  @vip 6
+[Chat][Dev]Arthur[PM] to All  @tele 1002 442 360
+[Chat][Dev]Arthur[PM] to All  @item 720549 0 0 0 0 0

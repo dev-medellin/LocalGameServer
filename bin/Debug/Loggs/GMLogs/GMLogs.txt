@@ -1,0 +1,85 @@
+[GMLogs][TQ]Bella[GM] give 1210 level 140 
+[GMLogs][TQ]Bella[GM] give 23245 level 140 
+[GMLogs]Kyaly spell 3321 0 0 0 0 0 
+[GMLogs][TQ]Kyaly[GM] level 140 
+[GMLogs][TQ]Kyaly[GM] onlinepoints 999999 
+[GMLogs][TQ]Kyaly[GM] donationpoints 9999999 
+[GMLogs][TQ]Kyaly[GM] cps 999999999 
+[GMLogs][TQ]Kyaly[GM] vip 6 
+[GMLogs][TQ]Kyaly[GM] scroll tc 
+[GMLogs][TQ]Kyaly[GM] restart 
+[GMLogs][TQ]Kyaly[GM] dropevent dragonball 500 
+[GMLogs][TQ]Kyaly[GM] disconnect 
+[GMLogs][TQ]Kyaly[GM] life 
+[GMLogs][TQ]Kyaly[GM] money 9999999999 
+[GMLogs][TQ]Kyaly[GM] money 0 
+[GMLogs][TQ]Kyaly[GM] money 9999999999 
+[GMLogs][TQ]Kyaly[GM] item holygrail normalv3 0 0 00 0 
+[GMLogs][TQ]Kyaly[GM] item goldcup normalv3 0 0 0 0 0 
+[GMLogs][TQ]Kyaly[GM] goldcup normalv3 0 0 0 0 0 
+[GMLogs][TQ]Kyaly[GM] scroll tc 
+[GMLogs][TQ]Kyaly[GM] life 
+[GMLogs][TQ]Kyaly[GM] studypoints 99999999 
+[GMLogs][TQ]Kyaly[GM] scroll tc 
+[GMLogs][TQ]Kyaly[GM] scroll tc 
+[GMLogs][TQ]Kyaly[GM] scale 215 
+[GMLogs][TQ]Kyaly[GM] scroll tc 
+[GMLogs][TQ]Kyaly[GM] item 800724 super 12 12 12 12 12 
+[GMLogs][TQ]Kyaly[GM] item 800724 super 12 7 12 12 12 
+[GMLogs][TQ]Kyaly[GM] item 800724 super 0 0 0 0 0 
+[GMLogs][TQ]Kyaly[GM] item HolyBeadsOfDharma 0 0 0 0 0 
+[GMLogs][TQ]Kyaly[GM] item LazuritePrayerBeads Super 12 7 255 13 13 
+[GMLogs][TQ]Kyaly[GM] item 800724 Super 12 7 255 13 13 
+[GMLogs][TQ]Kyaly[GM] item 800724 Super 12 7 255 13 13 
+[GMLogs][TQ]Kyaly[GM] money 1 
+[GMLogs][TQ]Kyaly[GM] cps 0 
+[GMLogs][TQ]Kyaly[GM] scroll tc 
+[GMLogs][TQ]Kyaly[GM] scroll ac 
+[GMLogs][TQ]Kyaly[GM] scroll ac 
+[GMLogs][TQ]Kyaly[GM] scroll pc 
+[GMLogs][TQ]Kyaly[GM] spell 1046 4 
+[GMLogs][TQ]Kyaly[GM] spell 1046 0 0 0 0 0 
+[GMLogs][TQ]Kyaly[GM] item UpgradeCert.(Class5) 3 
+[GMLogs][TQ]Kyaly[GM] item HeavenScent NormalV3 0 1  
+[GMLogs][TQ]Kyaly[GM] item HeavenScent NormalV3 0 0 0 0 0 
+[GMLogs][TQ]Kyaly[GM] item GoldCup NormalV3 0 0 0 0 0 
+[GMLogs][TQ]Kyaly[GM] broadcast hello everyone 
+[GMLogs][TQ]Kyaly[GM] bc hello everyone 
+[GMLogs][TQ]Kyaly[GM] bc GM~is~now~in~Server! 
+[GMLogs][TQ]Kyaly[GM] dropevent dragonball 100 
+[GMLogs][TQ]Kyaly[GM] dropevent meteor 100 
+[GMLogs][TQ]Kyaly[GM] summon guard 2 
+[GMLogs][TQ]Kyaly[GM] item GMRobe 0 12 7 255 13 13 
+[GMLogs][TQ]Kyaly[GM] scroll tc 
+[GMLogs][TQ]Kyaly[GM] item 800724 super 0 0 0 0 0 
+[GMLogs][TQ]Kyaly[GM] item 800724 super 12 7 7 255 0 
+[GMLogs][TQ]Kyaly[GM] money 0 
+[GMLogs][TQ]Kyaly[GM] money 999999999 
+[GMLogs][TQ]Kyaly[GM] cps 0 
+[GMLogs][TQ]Kyaly[GM] cps 999999999 
+[GMLogs][TQ]Kyaly[GM] boundcps 999999999 
+[GMLogs][TQ]Kyaly[GM] spell 3321 0 0 0 0 0 
+[GMLogs][TQ]Kyaly[GM] scroll ac 
+[GMLogs][TQ]Kyaly[GM] scroll tc 
+[GMLogs][TQ]Kyaly[GM] guildwar on 
+[GMLogs][TQ]Kyaly[GM] gw start 
+[GMLogs][TQ]Kyaly[GM] gw on 
+[GMLogs][TQ]Kyaly[GM] guildwar on 
+[GMLogs][TQ]Kyaly[GM] guildwar open 
+[GMLogs][TQ]Kyaly[GM] guildwar start 
+[GMLogs][TQ]Kyaly[GM] ann Server Maintenance 
+[GMLogs][TQ]Kyaly[GM] maintenance 
+[GMLogs][TQ]Kyaly[GM] server off 
+[GMLogs][TQ]Kyaly[GM] scroll tc 
+[GMLogs][TQ]Kyaly[GM] die 
+[GMLogs][TQ]Kyaly[GM] ctfon 
+[GMLogs][TQ]Kyaly[GM] startgw 
+[GMLogs][TQ]Kyaly[GM] gwstart 
+[GMLogs][TQ]Kyaly[GM] exit 
+[GMLogs][TQ]Kyaly[GM] scroll tc 
+[GMLogs][TQ]Kyaly[GM] clear 
+[GMLogs][TQ]Kyaly[GM] item 188180 0 0 0 0 0 
+[GMLogs][TQ]Kyaly[GM] cps 0 
+[GMLogs][TQ]Kyaly[GM] cps 0 
+[GMLogs][Owner]Arthur cps 1 
+[GMLogs][Owner]Arthur cps 1000 

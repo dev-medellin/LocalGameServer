@@ -1,0 +1,119 @@
+C:\Users\Administrator\Desktop\Server Files\Game Server\bin\Debug\COServer.exe.config
+C:\Users\Administrator\Desktop\Server Files\Game Server\bin\Debug\COServer.exe.manifest
+C:\Users\Administrator\Desktop\Server Files\Game Server\bin\Debug\COServer.application
+C:\Users\Administrator\Desktop\Server Files\Game Server\bin\Debug\COServer.exe
+C:\Users\Administrator\Desktop\Server Files\Game Server\bin\Debug\COServer.pdb
+C:\Users\Administrator\Desktop\Server Files\Game Server\obj\x86\Debug\COServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Server Files\Game Server\obj\x86\Debug\COServer.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Server Files\Game Server\obj\x86\Debug\COServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Server Files\Game Server\obj\x86\Debug\COServer.exe.manifest
+C:\Users\Administrator\Desktop\Server Files\Game Server\obj\x86\Debug\COServer.application
+C:\Users\Administrator\Desktop\Server Files\Game Server\obj\x86\Debug\COServer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Server Files\Game Server\obj\x86\Debug\COServer.exe
+C:\Users\Administrator\Desktop\Server Files\Game Server\obj\x86\Debug\COServer.pdb
+C:\Users\Administrator\Desktop\Test Server\Test Server\bin\Debug\COServer.exe.config
+C:\Users\Administrator\Desktop\Test Server\Test Server\bin\Debug\COServer.exe.manifest
+C:\Users\Administrator\Desktop\Test Server\Test Server\bin\Debug\COServer.application
+C:\Users\Administrator\Desktop\Test Server\Test Server\bin\Debug\COServer.exe
+C:\Users\Administrator\Desktop\Test Server\Test Server\bin\Debug\COServer.pdb
+C:\Users\Administrator\Desktop\Test Server\Test Server\obj\x86\Debug\COServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Test Server\Test Server\obj\x86\Debug\COServer.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Test Server\Test Server\obj\x86\Debug\COServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Test Server\Test Server\obj\x86\Debug\COServer.exe.manifest
+C:\Users\Administrator\Desktop\Test Server\Test Server\obj\x86\Debug\COServer.application
+C:\Users\Administrator\Desktop\Test Server\Test Server\obj\x86\Debug\COServer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Test Server\Test Server\obj\x86\Debug\COServer.exe
+C:\Users\Administrator\Desktop\Test Server\Test Server\obj\x86\Debug\COServer.pdb
+C:\Users\Administrator\Desktop\Server Files\Game Server\obj\x86\Debug\COServer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Test Server\Test Server\obj\x86\Debug\COServer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Test Server\Test Server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\Test Server\Test Server\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\Test Server\Test Server\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Test Server\Test Server\bin\Debug\Renci.SshNet.dll
+C:\Users\Administrator\Desktop\Test Server\Test Server\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrator\Desktop\Test Server\Test Server\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\Test Server\Test Server\bin\Debug\Renci.SshNet.xml
+D:\CO Stuff\COZone 27-8\Game Server\bin\Debug\COServer.exe.config
+D:\CO Stuff\COZone 27-8\Game Server\obj\x86\Debug\COServer.exe
+D:\CO Stuff\COZone 27-8\Game Server\obj\x86\Debug\COServer.pdb
+D:\CO Stuff\COZone 27-8\Game Server\bin\Debug\COServer.exe.manifest
+D:\CO Stuff\COZone 27-8\Game Server\bin\Debug\COServer.application
+D:\CO Stuff\COZone 27-8\Game Server\bin\Debug\COServer.exe
+D:\CO Stuff\COZone 27-8\Game Server\bin\Debug\COServer.pdb
+D:\CO Stuff\COZone 27-8\Game Server\bin\Debug\BouncyCastle.Crypto.dll
+D:\CO Stuff\COZone 27-8\Game Server\bin\Debug\Google.Protobuf.dll
+D:\CO Stuff\COZone 27-8\Game Server\bin\Debug\MySql.Data.dll
+D:\CO Stuff\COZone 27-8\Game Server\bin\Debug\Renci.SshNet.dll
+D:\CO Stuff\COZone 27-8\Game Server\bin\Debug\System.Web.Entity.dll
+D:\CO Stuff\COZone 27-8\Game Server\bin\Debug\Google.Protobuf.xml
+D:\CO Stuff\COZone 27-8\Game Server\bin\Debug\MySql.Data.xml
+D:\CO Stuff\COZone 27-8\Game Server\bin\Debug\Renci.SshNet.xml
+D:\CO Stuff\COZone 27-8\Game Server\bin\Debug\ar\System.Web.Entity.resources.dll
+D:\CO Stuff\COZone 27-8\Game Server\bin\Debug\fr\System.Web.Entity.resources.dll
+D:\CO Stuff\COZone 27-8\Game Server\obj\x86\Debug\COServer.Properties.Resources.resources
+D:\CO Stuff\COZone 27-8\Game Server\obj\x86\Debug\COServer.csproj.GenerateResource.Cache
+D:\CO Stuff\COZone 27-8\Game Server\obj\x86\Debug\COServer.exe.manifest
+D:\CO Stuff\COZone 27-8\Game Server\obj\x86\Debug\COServer.application
+C:\Users\user\Desktop\MyClassic\Game Server\bin\Debug\COServer.exe.config
+C:\Users\user\Desktop\MyClassic\Game Server\bin\Debug\COServer.exe.manifest
+C:\Users\user\Desktop\MyClassic\Game Server\bin\Debug\COServer.application
+C:\Users\user\Desktop\MyClassic\Game Server\bin\Debug\COServer.exe
+C:\Users\user\Desktop\MyClassic\Game Server\bin\Debug\COServer.pdb
+C:\Users\user\Desktop\MyClassic\Game Server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\MyClassic\Game Server\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\MyClassic\Game Server\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\MyClassic\Game Server\bin\Debug\Renci.SshNet.dll
+C:\Users\user\Desktop\MyClassic\Game Server\bin\Debug\Google.Protobuf.xml
+C:\Users\user\Desktop\MyClassic\Game Server\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\MyClassic\Game Server\bin\Debug\Renci.SshNet.xml
+C:\Users\user\Desktop\MyClassic\Game Server\obj\x86\Debug\COServer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MyClassic\Game Server\obj\x86\Debug\COServer.Properties.Resources.resources
+C:\Users\user\Desktop\MyClassic\Game Server\obj\x86\Debug\COServer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\MyClassic\Game Server\obj\x86\Debug\COServer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MyClassic\Game Server\obj\x86\Debug\COServer.exe.manifest
+C:\Users\user\Desktop\MyClassic\Game Server\obj\x86\Debug\COServer.application
+C:\Users\user\Desktop\MyClassic\Game Server\obj\x86\Debug\COServer.csproj.CopyComplete
+C:\Users\user\Desktop\MyClassic\Game Server\obj\x86\Debug\COServer.exe
+C:\Users\user\Desktop\MyClassic\Game Server\obj\x86\Debug\COServer.pdb
+C:\Users\Administrator\Desktop\MyClassic\Game Server\bin\Debug\COServer.pdb
+C:\Users\Administrator\Desktop\MyClassic\Game Server\obj\x86\Debug\COServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MyClassic\Game Server\obj\x86\Debug\COServer.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\MyClassic\Game Server\obj\x86\Debug\COServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MyClassic\Game Server\bin\Debug\COServer.exe.config
+C:\Users\Administrator\Desktop\MyClassic\Game Server\bin\Debug\COServer.exe.manifest
+C:\Users\Administrator\Desktop\MyClassic\Game Server\bin\Debug\COServer.application
+C:\Users\Administrator\Desktop\MyClassic\Game Server\bin\Debug\COServer.exe
+C:\Users\Administrator\Desktop\MyClassic\Game Server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\MyClassic\Game Server\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\MyClassic\Game Server\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\MyClassic\Game Server\bin\Debug\Renci.SshNet.dll
+C:\Users\Administrator\Desktop\MyClassic\Game Server\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrator\Desktop\MyClassic\Game Server\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Desktop\MyClassic\Game Server\bin\Debug\Renci.SshNet.xml
+C:\Users\Administrator\Desktop\MyClassic\Game Server\obj\x86\Debug\COServer.exe.manifest
+C:\Users\Administrator\Desktop\MyClassic\Game Server\obj\x86\Debug\COServer.application
+C:\Users\Administrator\Desktop\MyClassic\Game Server\obj\x86\Debug\COServer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\MyClassic\Game Server\obj\x86\Debug\COServer.exe
+C:\Users\Administrator\Desktop\MyClassic\Game Server\obj\x86\Debug\COServer.pdb
+C:\Users\Administrator\Desktop\MyClassic\Game Server\obj\x86\Debug\COServer.csproj.AssemblyReference.cache
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\bin\Debug\COServer.exe.config
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\bin\Debug\COServer.exe.manifest
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\bin\Debug\COServer.application
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\bin\Debug\COServer.exe
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\bin\Debug\COServer.pdb
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\bin\Debug\Google.Protobuf.dll
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\bin\Debug\MySql.Data.dll
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\bin\Debug\Renci.SshNet.dll
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\bin\Debug\Google.Protobuf.xml
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\bin\Debug\MySql.Data.xml
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\bin\Debug\Renci.SshNet.xml
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\obj\x86\Debug\COServer.csproj.AssemblyReference.cache
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\obj\x86\Debug\COServer.Properties.Resources.resources
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\obj\x86\Debug\COServer.csproj.GenerateResource.cache
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\obj\x86\Debug\COServer.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\obj\x86\Debug\COServer.exe.manifest
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\obj\x86\Debug\COServer.application
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\obj\x86\Debug\COServer.csproj.CopyComplete
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\obj\x86\Debug\COServer.exe
+C:\Users\MY PC\Desktop\MyClassic2023\Game Server\obj\x86\Debug\COServer.pdb

@@ -1,0 +1,9 @@
+----Exception message----
+Delegate to an instance method cannot have null 'this'.
+----End of exception message----
+
+----Stack trace----
+   at System.MulticastDelegate.CtorClosed(Object target, IntPtr methodPtr)
+   at COServer.Database.Server.SaveDatabase() in C:\Users\user\Desktop\MyClassic\Game Server\Database\Server.cs:line 789
+----End of stack trace----
+

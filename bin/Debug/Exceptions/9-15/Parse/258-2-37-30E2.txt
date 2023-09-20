@@ -1,0 +1,12 @@
+----Exception message----
+Value was either too large or too small for a UInt16.
+----End of exception message----
+
+----Stack trace----
+   at System.UInt16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.UInt16.Parse(String s)
+   at COServer.Database.NpcServer.LoadNpcs() in C:\Users\Administrator\Desktop\MyClassic\Game Server\Database\NpcServer.cs:line 134
+   at COServer.Database.Server.Initialize() in C:\Users\Administrator\Desktop\MyClassic\Game Server\Database\Server.cs:line 203
+   at COServer.Program.Main(String[] args) in C:\Users\Administrator\Desktop\MyClassic\Game Server\Program.cs:line 255
+----End of stack trace----
+

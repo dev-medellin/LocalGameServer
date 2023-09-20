@@ -1,0 +1,13 @@
+----Exception message----
+Input string was not in a correct format.
+----End of exception message----
+
+----Stack trace----
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseUInt32(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.UInt32.Parse(String s)
+   at COServer.Game.MsgServer.MsgMessage.ChatCommands(GameClient client, MsgMessage msg) in C:\Users\user\Desktop\MyClassic\Game Server\Game\MsgServer\MsgMessage.cs:line 1557
+   at COServer.Game.MsgServer.MsgMessage.MsgHandler(GameClient client, Packet packet) in C:\Users\user\Desktop\MyClassic\Game Server\Game\MsgServer\MsgMessage.cs:line 157
+   at COServer.Program.Game_Receive(SecuritySocket obj, Packet stream) in C:\Users\user\Desktop\MyClassic\Game Server\Program.cs:line 750
+----End of stack trace----
+

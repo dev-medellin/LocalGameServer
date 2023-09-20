@@ -1,0 +1,12 @@
+----Exception message----
+Value was either too large or too small for a UInt16.
+----End of exception message----
+
+----Stack trace----
+   at System.UInt16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   at System.UInt16.Parse(String s)
+   at COServer.Game.MsgServer.MsgMessage.ChatCommands(GameClient client, MsgMessage msg) in C:\Users\Administrator\Desktop\MyClassic\Game Server\Game\MsgServer\MsgMessage.cs:line 3450
+   at COServer.Game.MsgServer.MsgMessage.MsgHandler(GameClient client, Packet packet) in C:\Users\Administrator\Desktop\MyClassic\Game Server\Game\MsgServer\MsgMessage.cs:line 157
+   at COServer.Program.Game_Receive(SecuritySocket obj, Packet stream) in C:\Users\Administrator\Desktop\MyClassic\Game Server\Program.cs:line 750
+----End of stack trace----
+

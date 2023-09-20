@@ -1,0 +1,4 @@
+[CallStack][TQ]Kyaly[GM] get 999999999 he have 0
+[CallStack][TQ]Kyaly[GM] lost 15000 he have 999999996
+[CallStack][TQ]Kyaly[GM] lost 200 he have 999984996
+[CallStack][TQ]Kyaly[GM] lost 100 he have 999984796
